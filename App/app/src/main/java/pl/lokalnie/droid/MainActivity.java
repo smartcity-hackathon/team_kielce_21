@@ -250,7 +250,7 @@ public class MainActivity extends AppCompatActivity implements RecyclerItemTouch
         }
 
 
-        //code
+        
     }
 
     @Override
