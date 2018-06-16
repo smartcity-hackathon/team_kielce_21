@@ -249,6 +249,8 @@ public class MainActivity extends AppCompatActivity implements RecyclerItemTouch
             buildAlertMessageNoGps();
         }
 
+
+        //code
     }
 
     @Override
