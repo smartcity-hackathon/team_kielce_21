@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Info Kielce</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="main_activity">Lista powiadomień</string>
+    <string name="another_activity"></string>
+    <string name="delete">Usuń</string>
+
+    <string-array name="location_array">
+        <item>Kielce</item>
+        <item>Górno</item>
+        <item>Radoszyce</item>
+        <item>Starachowice</item>
+        <item>Suchedniów</item>
+    </string-array>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="quote_1">Expectation is the root of all heartache - William Shakespeare</string>
+
+</resources>

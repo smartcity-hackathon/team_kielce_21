@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#ffb504</color>
+    <color name="primary_dark">#e09e00</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#ffb504</color>
+    <color name="primary_text">#FFFFFF</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="colorPrimary">#ffb504</color>
+    <color name="colorPrimaryDark">#ffb504</color>
+    <color name="colorAccent">#ffb504</color>
+    <color name="bg_row_background">#fa315b</color>
+
+    <color name="black_overlay">#66000000</color>
+
+</resources>
